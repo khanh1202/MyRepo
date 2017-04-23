@@ -1,3 +1,6 @@
 Hello
 My name is Khanh
 I'm doing Computer Science in Swinburne
+This is Development Project 1
+Task 2.2C 
+Hope I can have good grades on this unit
